@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="600" height="360">
+  <defs>
+    <clipPath id="a" clipPathUnits="userSpaceOnUse">
+      <path d="M8634 6433h3310v2901H8634V6433"/>
+    </clipPath>
+  </defs>
+  <rect width="800" height="800" fill="white" />
+  <g stroke-width="3.8" transform="matrix(.09965 0 0 -.09965 -820 965.6)">
+    <path fill="none" stroke="#333" stroke-width="10" d="m10865.4 6948.6-827 457.6H9888"/>
+    <g clip-path="url(#a)" transform="translate(1400.4)">
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" d="m9379 7131-174 100 316 182M9830 6871l244-141M9205 8235v-282M9205 7432v-201M10074 6730v724l-241 418-628 363M11548 8352l-1390-802v-965l1390 803v964M10158 7550l-201 347M9122 8379l835-482 1390 803 201-348"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" d="m9122 8379 1390 803 835-482M9122 7183v201M9122 7905v474M10158 6585l-411 237M9296 7083l-174 100M11707.2 8198.4c114.1 65.8 114 279.6-.1 477.3-114.2 197.8-299.3 304.8-413.3 239M11134 8823l159 91M11548 8106l158 92M8803 7200v501l-17 10v-502l17-9M9466 8084l-663-383M8786 7711l663 383M8803 7200l631 364M9411 6628v20l-434 251v-20l434-251M10074 7031l-663-383M8977 6899l631 364M9411 6628l663 383M9414 7625l-11-7 236-409 12 7-237 409M9651 7216l421 243M9414 7625l421 243"/>
+    </g>
+    <circle cx="11134.2" cy="-7542.3" r="20.1" fill="#4d4d4d" paint-order="stroke fill markers" transform="scale(1 -1)"/>
+    <path fill="none" stroke="#333" stroke-width="10" d="m11134.2 7542.8-1095.7 609.4H9888M10443 7567l-404.5 215.7H9888"/>
+    <circle cx="10441" cy="-7570.1" r="20.1" fill="#4d4d4d" paint-order="stroke fill markers" transform="scale(1 -1)"/>
+    <circle cx="10864.4" cy="-6951.6" r="20.1" fill="#4d4d4d" paint-order="stroke fill markers" transform="scale(1 -1)"/>
+    <text xml:space="preserve" x="9829.6" y="-8084.2" stroke-width="37.8" font-family="Source Sans Pro" font-size="214.1" font-weight="700" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:'Source Sans Pro Bold'" transform="scale(1.00001 -.99999)" word-spacing="0"><tspan x="9829.6" y="-8084.2" font-weight="600" style="-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:end" text-anchor="end">COM</tspan></text>
+    <text xml:space="preserve" x="9829.6" y="-7711.2" stroke-width="37.8" font-family="Source Sans Pro" font-size="214.1" font-weight="700" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:'Source Sans Pro Bold'" transform="scale(1.00001 -.99999)" word-spacing="0"><tspan x="9829.6" y="-7711.2" font-weight="600" style="-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:end" text-anchor="end">Plate B</tspan></text>
+    <text xml:space="preserve" x="9829.6" y="-7332.5" stroke-width="37.8" font-family="Source Sans Pro" font-size="214.1" font-weight="700" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:'Source Sans Pro Bold'" transform="scale(1.00001 -.99999)" word-spacing="0"><tspan x="9829.6" y="-7332.5" font-weight="600" style="-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:end" text-anchor="end">Plate A</tspan></text>
+  </g>
+</svg>
